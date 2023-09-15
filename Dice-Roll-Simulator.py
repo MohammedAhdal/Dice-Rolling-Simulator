@@ -1,6 +1,6 @@
 """
-ASSIGNMENT
-Python 1 - Dice Rolling Simulator
+ASSIGNMENT Wk 1
+Python 1 - Dice Rolling Simulator - Programs rolls dice, until user notes it to stop rolling.
 """
 import random
 ## to set the min and max number that your dice can produce
