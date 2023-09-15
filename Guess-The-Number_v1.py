@@ -1,6 +1,6 @@
 """
 Python 2 - Guess the Number
-
+User plays the game by inputting a value between 1 and 9, and follows the hints to find the generated number.
 """
 import random
 ## GENERATE A RANDOM NUMBER BETWEEN 1 - 9
